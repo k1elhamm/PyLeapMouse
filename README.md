@@ -3,4 +3,4 @@ PyLeapMouse
 
 An advanced python-based cross-platform Leap Motion mouse
 
-Moved to github.com/openleap/PyLeapMouse.
+This project has moved! It is now available at https://github.com/openleap/PyLeapMouse
